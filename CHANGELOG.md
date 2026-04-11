@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/druwilding/queermoji/compare/v1.0.8...v1.0.9) (2026-04-11)
+
+
+### Documentation
+
+* Update link to Queermoji generator ([#26](https://github.com/druwilding/queermoji/issues/26)) ([12e4595](https://github.com/druwilding/queermoji/commit/12e45950cbe5fd3f7591c54233f3106f31572ff0))
+
 ## [1.0.8](https://github.com/druwilding/queermoji/compare/v1.0.7...v1.0.8) (2026-04-11)
 
 
