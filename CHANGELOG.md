@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/druewilding/queermoji/compare/v1.1.1...v1.1.2) (2026-05-09)
+
+
+### Bug Fixes
+
+* Update the colors of the ace 2026 flag ([#34](https://github.com/druewilding/queermoji/issues/34)) ([5a8a809](https://github.com/druewilding/queermoji/commit/5a8a809ec7fb2fcfda1a9c33f3b0ded453b3f218))
+
 ## [1.1.1](https://github.com/druewilding/queermoji/compare/v1.1.0...v1.1.1) (2026-04-21)
 
 
