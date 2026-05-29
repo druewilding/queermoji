@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/druewilding/queermoji/compare/v1.1.3...v1.2.0) (2026-05-29)
+
+
+### Features
+
+* Update the Ace2026 colours ([#38](https://github.com/druewilding/queermoji/issues/38)) ([e410568](https://github.com/druewilding/queermoji/commit/e41056875ab88f6c9845a0859e8a0afc622c0168))
+
 ## [1.1.3](https://github.com/druewilding/queermoji/compare/v1.1.2...v1.1.3) (2026-05-20)
 
 
