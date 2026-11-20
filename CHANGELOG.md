@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.3](https://github.com/druewilding/queermoji/compare/v1.5.2...v1.5.3) (2026-11-20)
+
+
+### Chores
+
+* Update dependencies ([#58](https://github.com/druewilding/queermoji/issues/58)) ([e8b55d0](https://github.com/druewilding/queermoji/commit/e8b55d0a1a4e30aca702e2325f901ec279f537b4))
+
 ## [1.5.2](https://github.com/druewilding/queermoji/compare/v1.5.1...v1.5.2) (2026-09-28)
 
 
